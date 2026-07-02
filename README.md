@@ -1,4 +1,4 @@
-# Machine-Learning-House-Prices-Advanced-Regression-Techniques
+# Machine-Learning: House Prices - Advanced Regression Techniques
 Repositório Criado para a entrega do trabalho da disciplina de Machine Learning. Ministrada pelo Professor Francisco Bolt no  IFES - Serra
 
 Consiste na tentaiva de resolução do desafio do Kaggle: House Princes
