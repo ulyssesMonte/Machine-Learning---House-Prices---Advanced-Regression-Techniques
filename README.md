@@ -7,3 +7,5 @@ Objetivo: Prever o preço de venda de residências em Ames, Iowa, utilizando té
 
 O mercado imobiliário é influenciado por diversos fatores, como características estruturais, localização e qualidade do imóvel. O conjunto de dados utilizado possui 79 variáveis explicativas para prever o preço de venda dos imóveis.
 O principal desafio consiste no pré-processamento dos dados, incluindo o tratamento de valores ausentes, a codificação de variáveis categóricas e a construção de um modelo capaz de minimizar o RMSLE (Root Mean Squared Logarithmic Error), métrica utilizada pelo Kaggle para avaliar as previsões.
+
+*Instruções:* Necessário ter junto ao Código os arquivos train.csv e test.csv
